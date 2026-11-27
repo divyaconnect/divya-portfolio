@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Analytics;Quantum+Computing;Future+AI%2FML+Engineer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 # 🌟 About Me
@@ -28,7 +24,7 @@
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Programming Languages
 
@@ -37,30 +33,24 @@
 ### Artificial Intelligence & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-https://img.shields.io/badge/Quantum_Computing-6A0DAD?style=for-the-badge
+![Quantum Computing](https://img.shields.io/badge/Quantum_Computing-6A0DAD?style=for-the-badge)
 
 ### Data Analytics
 
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-
-https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-
-https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ### Database
 
-https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
 
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -86,7 +76,7 @@ Python • Data Analytics • Machine Learning
 
 ---
 
-## 📊 HireMetrics
+## 📊 HireMetrics Ai
 
 A recruitment analytics platform that helps organizations analyze candidate performance and make data-driven hiring decisions.
 
@@ -141,15 +131,15 @@ Python • PyTorch • PennyLane • Machine Learning • Quantum Computing
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=divyaconnect&show_icons=true&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyaconnect&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyaconnect&theme=tokyonight"/>
 </p>
 
 ---
@@ -194,15 +184,16 @@ Aspiring AI/ML Engineer seeking opportunities to leverage Artificial Intelligenc
 
 💼 LinkedIn
 
-https://linkedin.com/in/YOUR_LINKEDIN
+www.linkedin.com/in/divya-b-8aa3a2365
+
 
 🐱 GitHub
 
-https://github.com/YOUR_USERNAME
+https://github.com/divyaconnect
 
 📧 Email
 
-YOUR_EMAIL
+divyabipin678@gmail.com
 
 ---
 
