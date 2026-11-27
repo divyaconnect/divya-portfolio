@@ -1,81 +1,215 @@
-# 👋 Hi, I'm Divya
+<h1 align="center">Hi 👋, I'm Divya</h1>
 
-<h3 align="center">🚀 Aspiring AI/ML Engineer | B.Tech CSE Student</h3>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | B.Tech Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&width=600&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Quantum+Computing;Future+AI%2FML+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Analytics;Quantum+Computing;Future+AI%2FML+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌟 About Me
+# 🌟 About Me
 
-🎓 B.Tech Computer Science Student
+🎓 B.Tech Computer Science Engineering Student
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Aspiring AI/ML Engineer passionate about Artificial Intelligence and Machine Learning
 
-🧠 Interested in Deep Learning, Data Analytics & Quantum Computing
+📊 Interested in Data Analytics, Deep Learning and Quantum Computing
 
-📚 Continuously learning emerging technologies
+💡 Love building intelligent solutions for real-world challenges
 
-🚀 Building intelligent solutions for real-world problems
+🚀 Continuously learning emerging technologies and exploring innovative ideas
 
----
-
-## 🛠️ Tech Stack
-
-### Programming
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-
-### AI & Machine Learning
-https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
-https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge
-https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge
-
-### Data Analysis
-https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas
-https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy
+🌱 Currently focusing on AI/ML, Data Analytics, Quantum Computing and Generative AI
 
 ---
 
-## 🚀 Featured Project
+# 💻 Tech Stack
 
-### 🔬 Hybrid Quantum-Classical Autoencoder for Anomaly Detection
+### Programming Languages
 
-✅ Developed an AI-based anomaly detection framework
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-✅ Implemented using Python, PyTorch & PennyLane
+### Artificial Intelligence & Machine Learning
 
-✅ Achieved ROC-AUC above 0.97
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
-✅ Achieved accuracy above 92%
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
 
-✅ Performed quantum latent-space analysis
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
----
+https://img.shields.io/badge/Quantum_Computing-6A0DAD?style=for-the-badge
 
-## 📈 GitHub Stats
+### Data Analytics
 
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
 
----
+https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge
 
-## 🎯 Career Objective
+### Database
 
-Aspiring AI/ML Engineer seeking opportunities to apply Machine Learning, Deep Learning, Data Analytics, and Quantum Computing skills to develop innovative and impactful solutions.
+https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white
 
----
+### Tools
 
-## 📫 Connect With Me
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
-💼 LinkedIn: www.linkedin.com/in/YOUR-LINKEDIN
-
-🐙 GitHub: https://github.com/YOUR_USERNAME
-
-📧 Email: yourmail@gmail.com
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+# 🚀 Projects
+
+## 🛡️ Sentinel-Sol
+
+An intelligent security and monitoring solution designed to improve threat detection and overall system monitoring efficiency.
+
+### Key Features
+
+✅ Real-time system monitoring
+
+✅ Security-focused analytics
+
+✅ Automated insights and reporting
+
+✅ Interactive dashboard experience
+
+### Technologies
+
+Python • Data Analytics • Machine Learning
+
+---
+
+## 📊 HireMetrics
+
+A recruitment analytics platform that helps organizations analyze candidate performance and make data-driven hiring decisions.
+
+### Key Features
+
+✅ Candidate performance analysis
+
+✅ Recruitment trend visualization
+
+✅ Data-driven hiring insights
+
+✅ Interactive analytical dashboard
+
+### Technologies
+
+Python • Pandas • NumPy • Data Visualization
+
+---
+
+## 🔬 Hybrid Quantum-Classical Autoencoder for Anomaly Detection
+
+Developed an advanced anomaly detection framework using classical and quantum machine learning approaches.
+
+### Key Features
+
+✅ Implemented using Python, PyTorch and PennyLane
+
+✅ Quantum feature encoding
+
+✅ Reconstruction-based anomaly detection
+
+✅ Latent-space analysis
+
+✅ Entanglement entropy evaluation
+
+✅ High-performance anomaly identification
+
+### Results
+
+🏆 ROC-AUC Score above 0.97
+
+🏆 Detection Accuracy above 92%
+
+🏆 Successful quantum-classical integration
+
+### Technologies
+
+Python • PyTorch • PennyLane • Machine Learning • Quantum Computing
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🎯 Career Objective
+
+Aspiring AI/ML Engineer seeking opportunities to leverage Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics and Quantum Computing skills to develop innovative solutions and contribute to impactful projects.
+
+---
+
+# 🏆 Achievements
+
+🌟 Developed multiple AI and analytics-based projects
+
+🌟 Strong foundation in Python Programming
+
+🌟 Practical exposure to Machine Learning workflows
+
+🌟 Experience with Quantum Machine Learning concepts
+
+🌟 Passionate about solving real-world problems through technology
+
+---
+
+# 📚 Currently Learning
+
+🔹 Advanced Machine Learning
+
+🔹 Deep Learning Architectures
+
+🔹 Generative AI
+
+🔹 Quantum Machine Learning
+
+🔹 Data Engineering
+
+🔹 MLOps Fundamentals
+
+---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn
+
+https://linkedin.com/in/YOUR_LINKEDIN
+
+🐱 GitHub
+
+https://github.com/YOUR_USERNAME
+
+📧 Email
+
+YOUR_EMAIL
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Portfolio ⭐
+
+### "Turning Data Into Intelligence and Ideas Into Innovation 🚀"
+
+</div>
