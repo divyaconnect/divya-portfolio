@@ -1,3 +1,5 @@
+# 🚀 My Project Showcase
+
 <p align="center">
   <img src="https://img.shields.io/badge/Projects-3-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI%2FML-Portfolio-blue?style=for-the-badge"/>
@@ -62,3 +64,5 @@
 <p align="center">
 
 ### 🌟 Innovation • Intelligence • Impact 🌟
+
+</p>
